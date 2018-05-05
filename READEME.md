@@ -9,7 +9,9 @@ Project #3 of Udacity's [Front-End Web Developer
 
 ##To Load the Game
 Clone the directory and open index.html in a browser window
-or go to the version hosted on [Github Pages](http://uthmana.github.io/frontend-nanodegree-arcade-game/)
+or go to the version hosted on Github Pages
+
+https://github.com/uthmana/arcade-game-clone/tree/master
 
 ##To Play the Game
 To play, press the **space bar** to start, then use the **arrow keys** to move around the screen.
